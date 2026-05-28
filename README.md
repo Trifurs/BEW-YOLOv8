@@ -9,6 +9,9 @@ Official code repository for the BEW-YOLOv8 study:
 
 ---
 
+> [!WARNING]
+> This `README.md` was generated with assistance from **Codex**. Some details may be inaccurate or outdated; please verify critical information against the source code and the original paper before use.
+
 ## Overview
 
 BEW-YOLOv8 is a flood-depth estimation framework built on YOLOv8 for **multi-scene** and **multi-scale** conditions.  
@@ -211,3 +214,9 @@ Email: trifurs@whu.edu.cn
 ## Acknowledgements
 
 This project is built upon the YOLOv8 framework and the Ultralytics open-source ecosystem. We thank the maintainers and contributors of these foundational projects.
+
+## License
+
+A license file is not currently provided in this repository.
+
+The license will be updated later. Please contact the authors for permission before commercial use or redistribution.
