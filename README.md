@@ -211,9 +211,3 @@ Email: trifurs@whu.edu.cn
 ## Acknowledgements
 
 This project is built upon the YOLOv8 framework and the Ultralytics open-source ecosystem. We thank the maintainers and contributors of these foundational projects.
-
-## License
-
-A license file is not currently provided in this repository.
-
-The license will be updated later. Please contact the authors for permission before commercial use or redistribution.
