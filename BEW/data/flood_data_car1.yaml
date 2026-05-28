@@ -1,0 +1,10 @@
+train: D:/lb/myCode/ultralytics-main/lb_project/data/new_car1/images/train  # train images (relative to 'path') 128 images
+val: D:/lb/myCode/ultralytics-main/lb_project/data/new_car1/images/val  # val images (relative to 'path') 128 images
+test: D:/lb/myCode/ultralytics-main/lb_project/data/new_car1/images/test # test images (optional)
+nc: 5
+names:
+  0: level-0
+  1: level-1
+  2: level-2
+  3: level-3
+  4: level-4
