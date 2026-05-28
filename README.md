@@ -21,6 +21,12 @@ The project focuses on estimating flood depth levels from visual observations (e
 
 This repository is designed to support academic reproducibility and further development based on the published method.
 
+## Model Structure
+
+![BEW-YOLOv8 model structure (Figure from the paper)](https://ars.els-cdn.com/content/image/1-s2.0-S002216942401535X-gr1_lrg.jpg)
+
+> Figure source: Liu et al. (2024), *Journal of Hydrology*, DOI: https://doi.org/10.1016/j.jhydrol.2024.132139.
+
 ## Paper Information
 
 **Full citation**
